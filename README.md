@@ -41,7 +41,7 @@ Captura 4
 
 ## Contribución
 
-Si deseas contribuir a este proyecto, sigue estos pasos:
+Puedes contribuir a este proyecto, sigue estos pasos:
 
 1. Crea un fork del repositorio.
 2. Crea una nueva rama para tus cambios: `git checkout -b mi-nueva-funcionalidad`
