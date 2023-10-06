@@ -12,22 +12,22 @@ Este proyecto tiene las siguientes características:
 
 ## Capturas de Pantalla
 
-![App Captura_1](photo_2023-10-06_18-42-52.jpg)  
+![App Captura_1](photo_52.jpg)  
 Captura 1
 
 ---
 
-![App Captura_2](photo_2023-10-06_18-42-56.jpg)  
+![App Captura_2](photo_56.jpg)  
 Captura 2
 
 ---
 
-![App Captura_3](photo_2023-10-06_18-42-59.jpg)  
+![App Captura_3](photo_59.jpg)  
 Captura 3
 
 ---
 
-![App Captura_4](photo_2023-10-06_18-43-02.jpg)  
+![App Captura_4](photo_02.jpg)  
 Captura 4
 
 ---
