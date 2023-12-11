@@ -12,22 +12,26 @@ Este proyecto tiene las siguientes características:
 
 ## Capturas de Pantalla
 
-![App Captura_1](photo_52.jpg)  
+ 
+<img src="photo_52.jpg" width="300">
 Captura 1
 
 ---
 
-![App Captura_2](photo_56.jpg)  
+ 
+<img src="photo_56.jpg" width="300">
 Captura 2
 
 ---
 
-![App Captura_3](photo_59.jpg)  
+
+<img src="photo_59.jpg" width="300">
 Captura 3
 
 ---
 
-![App Captura_4](photo_02.jpg)  
+
+<img src="photo_02.jpg" width="300">
 Captura 4
 
 ---
